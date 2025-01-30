@@ -15,7 +15,7 @@ messages = [
 ]
 
 # (include country code, e.g., +254...)
-recipient_number = "+254758018440"
+recipient_number = "+254797341497"
 
 # Function to send a random message and press Enter automatically
 def send_message():
